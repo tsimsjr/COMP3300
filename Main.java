@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 // THIS IS TSU
 
+// THIS IS COMP SCI sec
+
 // This is CS department of TSU, we teach software engineering in COMP 3300
 class Main 
 
