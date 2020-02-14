@@ -7,6 +7,7 @@ import java.util.Scanner;
 // THIS IS COMP SCI sec
 
 // This is CS department of TSU, we teach software engineering in COMP 3300
+// Im ready to go
 class Main 
 
 {
